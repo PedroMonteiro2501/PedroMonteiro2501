@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Pedro Victor!
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Focado em Python, HTML e CSS
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📬 Contato: pedro.pv825@gmail.com 
 
 <!--
 **PedroMonteiro2501/PedroMonteiro2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
