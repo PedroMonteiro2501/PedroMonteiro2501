@@ -1,17 +1,12 @@
 # 👋 Olá, eu sou o Pedro Monteiro!
 
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+💻**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 
 ## Sobre mim
-- Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Sempre aprendendo novas tecnologias e boas práticas de programação
-- Interesse especial em **projetos web** e **desenvolvimento front-end**
-
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
-- 🚀 Preparando-se para o mercado de tecnologia
-- 📬 Contato: pedro.pv825@gmail.com 
+- 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- 🚀 Sempre aprendendo novas tecnologias e boas práticas de programação
+- 🌐 Interesse especial em **projetos web** e **desenvolvimento front-end**
 
 ## 🛠️ Tecnologias que estudo
 <div style="display: inline_block"><br>
